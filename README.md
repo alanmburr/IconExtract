@@ -1,2 +1,2 @@
 # IconExtract
-"Fork" of a script on TechNet for extracting icons from Windows dll's.
+(TechNet Link)[https://gallery.technet.microsoft.com/scriptcenter/Export-Icon-from-DLL-and-9d309047]
